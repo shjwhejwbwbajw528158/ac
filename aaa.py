@@ -4,6 +4,7 @@ from telegram.ext import *
 
 def st(u,c):
     u.message.reply_text("Hello Bro")
+    print("Someone Called Start")
 
 
 
